@@ -1,0 +1,18 @@
+.content-side_list-item {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.content-side_list-item--title {
+    margin-top: 7px;
+    margin-bottom: 5px;
+    font-size: 14px;
+    line-height: 16px;
+}
+
+.content-side_list-item--text {
+    font-size: 14px;
+    line-height: 16px;
+    margin: 0;
+}
