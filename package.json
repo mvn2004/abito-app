@@ -1,7 +1,6 @@
 {
   "name": "abito-app",
   "version": "0.1.0",
-  "homepage": "https://mvn2004.github.io/abito-app",
   "private": true,
   "dependencies": {
     "cra-template": "1.2.0",
